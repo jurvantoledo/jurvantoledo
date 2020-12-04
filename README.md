@@ -8,3 +8,9 @@ I recently graduated at the Codaisseur's Academy as Fullstack Developer, passion
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jurvantoledo&show_icons=true&locale=en" alt="jurvantoledo" /></p>
 
+--- 
+
+Work I'm most proud of:
+- https://github.com/jurvantoledo/add-that-store-client
+- https://github.com/jurvantoledo/Add-that-store-server
+
