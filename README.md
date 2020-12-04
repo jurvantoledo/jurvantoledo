@@ -12,6 +12,6 @@ I recently graduated at the Codaisseur's Academy as Fullstack Developer, passion
 
 <p>Work I'm proud of:</p>
 <p><b>Add that Store:</b></p>
-- <a href="https://github.com/jurvantoledo/add-that-store-client">Front End</a>
+- <a href="https://github.com/jurvantoledo/add-that-store-client">Front End</a><br />
 - <a href="https://github.com/jurvantoledo/Add-that-store-server">Back End</a>
 
