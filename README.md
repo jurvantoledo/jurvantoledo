@@ -18,7 +18,9 @@ I recently graduated at the Codaisseur's Academy as Fullstack Developer, passion
 </ul>
 
 <b>React Native App:</b><br />
-- <a href="https://github.com/jurvantoledo/stress-client">Anti Stress app Front End</a>
-- <a href="https://github.com/jurvantoledo/stress-server">Anti Stress app Back End</a>
+<ul>
+  <li><a href="https://github.com/jurvantoledo/stress-client">Anti Stress app Front End</a></li>
+  <li><a href="https://github.com/jurvantoledo/stress-server">Anti Stress app Back End</a></li>
+</ul>
 
 
