@@ -10,7 +10,7 @@ I recently graduated at the Codaisseur's Academy as Fullstack Developer, passion
 
 --- 
 
-<p>Work I'm proud of:</p>
+<p>Work I'm proud of</p>
 <b>Add that Store:</b><br />
 <ul>
   <li><a href="https://github.com/jurvantoledo/add-that-store-client">Front End</a></li>
