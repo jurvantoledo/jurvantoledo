@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Jur van Toledo</h1>
 <h3>Welcome to my GitHub Page!</h3>
 I graduated at the Codaisseur's Academy as Fullstack Developer, passionated in creating awesome web- and mobile applications. I am an enthusiastic developer looking for a new challenge to develop/learn more skills.
-
+<br />
 <p><b>Personal website:</b> https://jur-van-toledo.netlify.app/</p>
 
 
