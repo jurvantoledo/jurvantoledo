@@ -11,17 +11,4 @@
 
 --- 
 
-<p><b>Work I'm proud of:</b></p>
-<b>Add that Store:</b><br />
-<ul>
-  <li><a href="https://github.com/jurvantoledo/add-that-store-client">Front End</a></li>
-  <li><a href="https://github.com/jurvantoledo/Add-that-store-server">Back End</a></li> 
-</ul>
-
-<b>React Native App:</b><br />
-<ul>
-  <li><a href="https://github.com/jurvantoledo/stress-client">Anti Stress app Front End</a></li>
-  <li><a href="https://github.com/jurvantoledo/stress-server">Anti Stress app Back End</a></li>
-</ul>
-
 
